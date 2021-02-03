@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Book Store</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<div id="container">
+  <div id="header">
+    <h1>Ana`s first blog</h1>
+  </div>
+  <div id="sideheader"></div>
+  <div id="left_column">
+    <div class="left_column_boxes">
+      
+      <div id="navcontainer">
+       <ul id="navlist">
+	     <li id="active"><a href="index.html" id="current">Home</a></li>
+	 
+      <li id="active"><a href="aboutme.html" id="current">About me</a></li>
+	 
+     <li id="active"><a href="informationssystems.html">Information Systems & Databases  </a></li>
+		 
+         <li><a href="SkillsProfessionals.html">Skills for Is Professionals </a></li>
+		 
+		  <li><a href="NegotiatingWork.html">Negotiated Work & Project Based Learning  </a></li>
+		  
+		  <li><a href="Programming.html">Programming</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="left_column_boxes">
+      <h4>News</h4>
+      <dl>
+        <dt class="news">This is my first website </dt>
+        <dd>Ana Stetco,University of West London </dd>
+        <dt class="news">University is cool!</dt>
+        <dd> In this blog I will be writing about my first year as a student.</dd>
+      </dl>
+    </div>
+    <div class="left_column_boxes">   
+    </div>
+</div>
+   <div id="content">
+    <h3>Negotiating work </h3 >
+	<p> This module has taught me how to think more in depth about reflecting writing.I have always known I need to improve my academic writing and this subject has helped 
+		me learn how to do this.This has also helped me to gain new skills in my actual job and also colaborate with my manager for learning how to create a web form using html,
+		css and php languages.
+		</p>
+    <h3> About module</h3>
+    <p> I found this module very intresting as it helped me define what my aims are,smart goals and also manage well any potential risks I might have had to ecounter
+		while doing my project.</p>
+    <h3>End of Module </h3>
+    <p>For learning how to create the Web Form I have had to learn first Html,Css and than Php for giving the form functionality as this is native to the web.A php is relatively
+		use to make html more dynamic.
+		The project for this module has helped to plan my learning methods more efficiently being able to learn this three languages quick and efficient.</p>
+    <h3></h3>
+    <p>	</p>
+  </div>
+     <p class="center"> Created by Ana 2019 <a></p>
+</html>
