@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Book Store</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<div id="container">
+  <div id="header">
+    <h1>Ana`s first blog</h1>
+  </div>
+  <div id="sideheader"></div>
+  <div id="left_column">
+    <div class="left_column_boxes">
+      
+      <div id="navcontainer">
+       <ul id="navlist">
+	     <li id="active"><a href="index.html" id="current">Home</a></li>
+	 
+      <li id="active"><a href="aboutme.html" id="current">About me</a></li>
+	 
+     <li id="active"><a href="informationssystems.html">Information Systems & Databases  </a></li>
+		 
+         <li><a href="SkillsProfessionals.html">Skills for Is Professionals </a></li>
+		 
+		  <li><a href="NegotiatingWork.html">Negotiated Work & Project Based Learning  </a></li>
+		  
+		  <li><a href="Programming.html">Programming</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="left_column_boxes">
+      <h4>News</h4>
+      <dl>
+        <dt class="news">This is my first website </dt>
+        <dd>Ana Stetco,University of West London </dd>
+        <dt class="news">University is cool!</dt>
+        <dd> In this blog I will be writing about my first year as a student.</dd>
+      </dl>
+    </div>
+    <div class="left_column_boxes">   
+    </div>
+</div>
+   <div id="content">
+    <h3>Information systems and databases</h3 >
+	<p> This module is my favorite so far and  I enjoyed the most.I think SQL is a unvaluable skill very important for data science</p>
+    <h3> About module</h3>
+    <p>Module was very interactive and it made me realise
+		I want to persuade a career in data.I think learning SQL was key starting in my future career.Sql is way to interact with databases,so by learning this query language
+		,I have understood  how databses work.We have covered a lot of SQL and all the features available such as indexes and query planning,constraint,views and foreign keys.</p>
+    <h3> End of module </h3>
+    <p>For the end part of module we had to implement a database based on a case study organization to a maximum of ten tables 
+		conform fully to the design using Oracle Sql developer, showing we have a comprehensive
+		knowledge of SQL.
+		
+	For the future I would like to learn different versions of SQL like My Sql,Oracle,MsSql maybe in combination with learning SQL on the server side. </p>
+    <h3></h3>
+    <p>	</p>
+  </div>
+     <p class="center"> Created by Ana 2019 <a></p>
+</html>
