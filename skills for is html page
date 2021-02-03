@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Book Store</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<div id="container">
+  <div id="header">
+    <h1>Ana`s first blog</h1>
+  </div>
+  <div id="sideheader"></div>
+  <div id="left_column">
+    <div class="left_column_boxes">
+      
+      <div id="navcontainer">
+       <ul id="navlist">
+	     <li id="active"><a href="index.html" id="current">Home</a></li>
+	 
+      <li id="active"><a href="aboutme.html" id="current">About me</a></li>
+	 
+     <li id="active"><a href="informationssystems.html">Information Systems & Databases  </a></li>
+		 
+         <li><a href="SkillsProfessionals.html">Skills for Is Professionals </a></li>
+		 
+		  <li><a href="NegotiatingWork.html">Negotiated Work & Project Based Learning  </a></li>
+		  
+		  <li><a href="Programming.html">Programming</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="left_column_boxes">
+      <h4>News</h4>
+      <dl>
+        <dt class="news">This is my first website </dt>
+        <dd>Ana Stetco,University of West London </dd>
+        <dt class="news">University is cool!</dt>
+        <dd> In this blog I will be writing about my first year as a student.</dd>
+      </dl>
+    </div>
+    <div class="left_column_boxes">   
+    </div>
+</div>
+   <div id="content">
+    <h3>Skills for Is Professionals </h3 >
+	<p> This module was the very first  we have started at the beggining of school year.
+		<P> First assignment  was a group presentation where we had to implement a tehnological  concept about students wellbeing. </p> 
+    <h3> About module</h3>
+    <p>In this module I have learned key skills such as working in groups,to collaborate ,to communicate and has made me realise what my strengths and weaknesses and where and how
+		to improve.I have also learned how to plan,coordinate and trask specific tasks in different  projects.	</p>
+    <h3> End of module </h3>
+    <p>End of module I have  learned simple formulas in Excel,turne pile of data into helpful graphics and charts which has helped me to understand how
+		to organize data in an easy to navigate way. <p>
+		
+  </div>
+     <p class="center"> Created by Ana 2019 <a></p>
+</html>
