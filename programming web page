@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Book Store</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<div id="container">
+  <div id="header">
+    <h1>Ana`s first blog</h1>
+  </div>
+  <div id="sideheader"></div>
+  <div id="left_column">
+    <div class="left_column_boxes">
+      
+      <div id="navcontainer">
+       <ul id="navlist">
+	     <li id="active"><a href="index.html" id="current">Home</a></li>
+	 
+      <li id="active"><a href="aboutme.html" id="current">About me</a></li>
+	 
+     <li id="active"><a href="informationssystems.html">Information Systems & Databases  </a></li>
+		 
+         <li><a href="SkillsProfessionals.html">Skills for Is Professionals </a></li>
+		 
+		  <li><a href="NegotiatingWork.html">Negotiated Work & Project Based Learning  </a></li>
+		  
+		  <li><a href="Programming.html">Programming</a></li>
+          
+        </ul>
+      </div>
+	</div>
+    <div class="left_column_boxes">
+      <h4>News</h4>
+      <dl>
+        <dt class="news">This is my first website </dt>
+        <dd>Ana Stetco,University of West London </dd>
+        <dt class="news">University is cool!</dt>
+        <dd> In this blog I will be writing about my first year as a student.</dd>
+      </dl>
+    </div>
+    <div class="left_column_boxes">   
+    </div>
+	</div>
+   <div id="content">
+    <h3>Programming</h3 >
+	<p> Java was our first module of learning how to code.I found it to be a intresting language and one of the most popular programming languages in the world today.</p>
+    <h3> About module</h3>
+    <p> This module has not only tought me how to code but also helped me how to think.I think the module had a very good planning structure and also tecaher made 
+		the classes very interactive.
+	 Learning Java I have understood differences between high level language and low level language and also 
+		I have realised its easier to learn high level language than low level languages as are less error prone ,while  learning low languages is more complex and this requires a better
+		understanding of the computer arhitecture.
+		I thought it was particularly intresting how high level languages are an easier to understand and is user friendly compare to low level
+		languages which are more approapriate for developing new operating systems. </p>
+    <h3>End of Module</h3>
+    <p>	At the end of the module I was able to implement  a small functional software application in Eclipse Ide Platform called Recipes where I have demonstrated 
+		core options for Add,Print,Quit and Count. 	</p>
+  </div>
+     <p class="center"> Created by Ana 2019 <a></p>
+</html>
